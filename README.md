@@ -7,9 +7,6 @@ Valoro el trabajo en equipo y creo en la colaboración como una forma efectiva d
 
 Siempre estoy abierto a nuevas oportunidades y proyectos interesantes. ¡No dudes en contactarme para discutir ideas o colaborar en proyectos emocionantes!
 
-### Conocimientos
-Javascript|Typescript|React|Next|Express|PostgreSQL|SASS|Redux|HTML|CSS|MongoDB
-
 ### Contacto
 LinkedIn: Francisco Insaurralde (https://www.linkedin.com/in/francisco-insaurralde-539109220/)
 
